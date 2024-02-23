@@ -5,7 +5,7 @@ author: Daniel
 date: 2024-02-23T12:21:54.961Z
 tags:
   - post
-thumbnail: /assets/blog/healthcare.svg
+thumbnail: /assets/blog/cropped3.png
 imageAlt: heart
 ---
 h﻿ello her e is my post
